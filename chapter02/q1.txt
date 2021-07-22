@@ -1,0 +1,1 @@
+fomatted integer: 1, strings: Q2.1 answer, floating number: 5.100000
